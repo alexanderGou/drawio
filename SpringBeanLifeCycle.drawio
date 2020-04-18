@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-18T10:43:14.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="UzgHg-yXPm0g9GMjst12" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-18T10:54:00.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="0dm4ze-p42UKtrG00vEU" version="12.9.14" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Spring Bean LifeCycle">
     <mxGraphModel dx="1520" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="a5LNJJJlX2vmiXzRFUps-1767" value="&lt;span style=&quot;font-weight: 400&quot;&gt;AnnotatedBeanDefinitionReader&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1240" y="930" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a5LNJJJlX2vmiXzRFUps-1768" value="&lt;span style=&quot;font-weight: 400&quot;&gt;XML解析器--BeanDefinitionParser&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+        <mxCell id="a5LNJJJlX2vmiXzRFUps-1768" value="&lt;span style=&quot;font-weight: 400&quot;&gt;XML解析器--BeanDefinitionParser&lt;br&gt;(Spring 2)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1240" y="780" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
